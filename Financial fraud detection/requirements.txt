@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-scikit-learn
-torch
-torch-geometric
-networkx
-node2vec
-tqdm
