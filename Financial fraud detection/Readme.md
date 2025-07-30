@@ -126,7 +126,7 @@ gnn-fraud-detection/
 ### **Visualization**
 The T-SNE visualization below shows the separation between legitimate and fraudulent transactions:
 
-![T-SNE Visualization](Financial-fraud-detection/results/tsne_2d_visualization.png)
+![T-SNE Visualization](results/tsne_2d_visualization.png)
 
 ### **Model Performance Comparison**
 | **Model**   | **AUC-ROC** | **AUC-PR** |
